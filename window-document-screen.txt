@@ -1,0 +1,14 @@
+Window:
+	This is parent object. It is top level thing.
+	It has the bunch of properties includes screen and document.
+Document:
+		It constructed after the window. it represends the content on the page we see.
+		It could be HTML or XML.
+		It contains URL.
+		It is part of the window.
+		we have methods, body and script tags.
+Screen:
+		It is also a part of window.
+		it contains the information about the browser window like height, width and color depth.
+		
+	
